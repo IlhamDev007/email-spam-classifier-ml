@@ -1,0 +1,51 @@
+ham:
+[01] Subject: Lunch plans for tomorrow?
+
+Hi Sarah,
+
+Just checking in to see if you're free for lunch tomorrow? I was thinking we could grab that new Thai place on Elm Street. Let me know if that works for you!
+
+Best,
+Emily
+
+[02] Subject: Order Confirmation - Your New Running Shoes
+
+Hi David,
+
+This email confirms your recent order for a pair of Asics Gel-Kayano running shoes (size 10). Your order will ship within 2 business days and you'll receive a tracking number shortly.
+
+Thanks for shopping with us!
+
+Sincerely,
+
+The Running Store Team
+
+
+Spam:
+[01] Subject: You Won't Believe This!
+Dear ilhamsk360@gmail.com,
+
+Congratulations! You've been randomly selected to win a FREE iPhone 16! All you have to do is click the link below and enter your information for a chance to claim your prize.
+
+Click Here: http://101.10.1.101
+
+Don't miss out on this incredible opportunity!
+
+Sincerely,
+
+The iPhone Giveaway Team
+
+[02] Subject: Urgent Action Required: Your Account Will Be Suspended!
+Dear ilhamsk@gmail.com,
+
+We recently detected suspicious activity on your [Bank Name] account. To protect your financial information, we have temporarily suspended your account.
+
+To verify your identity and regain access, please click the link below and update your account information immediately.
+
+Click Here: [http://101.10.1.101
+
+Failure to do so within 24 hours will result in permanent account closure.
+
+Sincerely,
+
+The  HNB Security Team
